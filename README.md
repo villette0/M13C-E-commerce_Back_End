@@ -4,7 +4,7 @@
 This is the back end for an e-commerce site. A working Express.js API is configured to use Sequelize to interact with a MySQL database. The user first creates the mysql database by logging into mysql and running "source db/schema.sql" and then seeding the data by running "npm run seed". To then run the application the user runs "npm start" and is able to use a program like Insomnia to get all categories/products/tags, get one item by id, post one creation, update one item, or delete one item from the database using the routes.  
 
 ## Challenge Description
-
+The challenge required creating models for the e-commerce database including categories, products and tags. Each of these models required certain information for the mysql table, for example, the products model required the product name, price, number in stock, and category. The challenge also required creating api routes to get, update (put), create (post), and delete information from each in the database using Insomnia.
 
 ## User Story
 
@@ -32,9 +32,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Tasks Completed
 The JavaScript documents include:
-* functions, variables, objects
-* conditional statements, arrays, queries, and string interpolation
-* node modules such as 
+* models, classes, and functions
+* api routes for get, post, put, and delete
+* node modules such as dotenc, mysql2, express, and sequalize
 * comments
 
 
