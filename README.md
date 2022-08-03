@@ -43,7 +43,7 @@ The JavaScript documents include:
 
 
 ## Links
-* [Application Walkthrough Video](https://drive.google.com/file/d/1IDJIRiFsONphgKkVpegD140XxCOyzprc/view)
+* [Application Walkthrough Video](https://drive.google.com/file/d/18J5KsgklGl5sVr95FuhWW2x5DYE5weUv/view?usp=sharing)
 
 * [Repository](https://github.com/villettec/M13C-E-commerce_Back_End)
 
