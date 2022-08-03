@@ -50,8 +50,6 @@ The JavaScript documents include:
 ## Screenshots
 ![image](./assets/images/readme-screenshot.png)
 
-![image](./assets/images/readme-screenshot-2.png)
-
 ## Credit
 Villette Comfort
 
