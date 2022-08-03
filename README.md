@@ -34,7 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database
 The JavaScript documents include:
 * models, classes, and functions
 * api routes for get, post, put, and delete
-* node modules such as dotenc, mysql2, express, and sequalize
+* node modules such as dotenv, mysql2, express, and sequalize
 * comments
 
 
