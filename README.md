@@ -45,12 +45,8 @@ The JavaScript documents include:
 ## Links
 * [Application Walkthrough Video](https://drive.google.com/file/d/18J5KsgklGl5sVr95FuhWW2x5DYE5weUv/view?usp=sharing)
 
-* [Repository](https://github.com/villettec/M13C-E-commerce_Back_End)
+* [Repository](https://github.com/villette0/M13C-E-commerce_Back_End)
 
 ## Screenshots
 ![image](./assets/images/readme-screenshot.png)
 
-## Credit
-Villette Comfort
-
-villette@live.com
